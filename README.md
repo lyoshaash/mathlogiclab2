@@ -18,4 +18,4 @@ A={a,b,c} Если в слове P нет символа a, То заменит�
 
 ## Список использованных источников
 
-[Документация truing_machine]([https://github.com/dimazest/turing_machine/blob/master/Turing%20machine.ipynb])
+[Документация truing_machine](https://github.com/dimazest/turing_machine/blob/master/Turing%20machine.ipynb)
